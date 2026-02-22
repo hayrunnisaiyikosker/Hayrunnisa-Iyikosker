@@ -30,18 +30,29 @@ Hands-on object detection experiments while learning computer vision fundamental
 ## Skills
 **Languages**: Python, C  
 **Computer Vision**: OpenCV, Open3D, YOLO  
-**Frameworks & Tools**: PyQt5, Git, Linux  
+**Frameworks & Tools**: PyQt5, Git, Linux 
 **Other**: NumPy, image processing, 3D visualization
+**Tools**: Git, PostgreSQL
 
 ## Focus Areas
 - Computer vision and 3D processing  
 - Real-time measurement systems  
 - Industrial and engineering-oriented applications
 
-## Get in Touch
+## 📚 Currently Learning
+- Backend Development & DevOps (SFWE477)
+- Software Project Managment (SFWE344)
+- Digital Image Processing (ELEE474)
+- Deep Neural Networks (AINE332)
+  
+## 🔗 Connect With Me
 
-📧 [Email](mailto:hniyikosker@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/hayrunnisa-iyik%C3%B6%C5%9Fker-922b95309/)  
-🐙 [GitHub](https://github.com/hayrunnisaiyikosker)
-
+- [Email](mailto:hniyikosker@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/hayrunnisa-iyik%C3%B6%C5%9Fker-922b95309/)  
+- [GitHub](https://github.com/hayrunnisaiyikosker)
+- [LeetCode](https://leetcode.com/u/hayrunnisa_iyikosker/)
 *Open to learning, collaboration, and constructive feedback.*
+
+## 📌 Featured Projects
+- [Project Name](repo-link) — one sentence description
+- [Project Name](repo-link) — one sentence description
