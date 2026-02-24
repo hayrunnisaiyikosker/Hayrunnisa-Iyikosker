@@ -1,4 +1,4 @@
-# Hayrunnisa-Iyikosker
+# hayrunnisaiyikosker
 Software Engineering Student | Computer Vision & 3D Measurement
 
 ## About Me
