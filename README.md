@@ -1,6 +1,6 @@
 # hayrunnisaiyikosker
 Software Engineering Student | Computer Vision & 3D Measurement
-I focus on building engineering-oriented systems that combine computer vision with real-world industrial applications and medical applications.
+I build engineering-oriented computer vision systems for industrial optimization and medical analysis.
 
 ## About Me
 I'm a software engineering student interested in **computer vision** and **industrial measurement systems**, **3D measurement systems**.  
